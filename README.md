@@ -1,4 +1,4 @@
-# ENAK EVENTS
+# ENSAK EVENTS
 
 -SiteWeb complet pour la gestion d’événements, offrant des fonctionnalités aux organisateurs pour créer, gérer, et promouvoir leurs événements, ainsi qu'aux participants pour s'informer et s'inscrire.
 
